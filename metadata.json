@@ -1,0 +1,8 @@
+{
+  "name": "SOLEX — Premium Sneaker Marketplace",
+  "description": "Premium sneaker marketplace featuring top athletic brands, new arrivals, category exploration, and real-time shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
